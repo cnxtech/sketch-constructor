@@ -84,7 +84,7 @@
     "minami": "^1.2.3",
     "prettier": "^1.16.1",
     "standard-version": "^4.4.0",
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^20.1.0"
   },
   "config": {
     "commitizen": {
